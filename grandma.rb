@@ -18,5 +18,7 @@ def speak_to_grandma(pharse)
     elsif pharse == pharse
     puts "NO, NOT SINCE 1938!."
   else pharse == pharse
-    puts "I LOVE "
+    puts "I LOVE YOU TOO PUMPKIN! "
+  end
+end
 
