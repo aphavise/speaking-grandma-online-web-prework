@@ -18,7 +18,7 @@ def speak_to_grandma(phrase)
   elseif pharse == pharse.capitalize ()
     return "NO, NOT SINCE 1938!"
   else pharse 
-    return "NO, NOT SINCE 1938!"
+    return "HUH?! SPEAK UP, SONNY!"
   end
 end
 
