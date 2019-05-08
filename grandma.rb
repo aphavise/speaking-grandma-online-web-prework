@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(pharse)
-  if pharse!= pharse.upcase
+  if pharse != pharse.upcase
     puts "HUH?! SPEAK UP, SONNY!"
   else
     puts "NO, NOT SINCE 1938!.
