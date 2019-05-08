@@ -12,7 +12,7 @@
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 
-speak_to_grandma(x)
+speak_to_grandma(grandma)
    
    puts "I love you grandma"
   elsif 
