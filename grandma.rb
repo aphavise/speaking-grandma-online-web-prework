@@ -14,11 +14,11 @@
 
 def speak_to_grandma(pharse)
   if pharse != pharse.upcase()
-    puts "HUH?! SPEAK UP, SONNY!."
+    print "HUH?! SPEAK UP, SONNY!."
     elsif pharse == pharse
-    puts "NO, NOT SINCE 1938!."
+    print"NO, NOT SINCE 1938!."
   else pharse == pharse
-    puts "I LOVE YOU TOO PUMPKIN! "
+   print "I LOVE YOU TOO PUMPKIN! "
   end
 end
 
