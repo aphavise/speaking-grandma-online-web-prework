@@ -13,9 +13,9 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(pharse)
-  if pharse.upcase
+  if pharse.downcase
     puts "HUH?! SPEAK UP, SONNY!"
-  elsif 
+  elsif pharse.upcase
     puts "NO, NOT SINCE 1938!."
   else 
     puts "I LOVE YOU TOO PUMPKIN!."
