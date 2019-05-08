@@ -18,6 +18,6 @@ def speak_to_grandma(phrase)
   elsif
     return "NO, NOT SINCE 1938!"
   else 
-    return ""
+    return "I LOVE YOU TOO PUMPKIN!"
   end
 end
