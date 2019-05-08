@@ -14,5 +14,3 @@
 
 speak_to_grandma(grandma)
    
-   puts "I love you grandma"
-  elsif 
