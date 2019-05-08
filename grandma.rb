@@ -15,10 +15,10 @@
 def speak_to_grandma(phrase)
   if phrase == phrase.upcase(==)
     return "I LOVE YOU TOO PUMPKIN!"
-  elseif pharse 
+  elseif pharse == pharse.capitalize ()
     return "NO, NOT SINCE 1938!"
-  else pharse =
-    return 
+  else pharse 
+    return ""
   end
 end
 
